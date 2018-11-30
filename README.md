@@ -60,7 +60,7 @@ La razón es que me resulta cómodo para la programación en Java y no tenía ti
 
 ```git
 git clone https://github.com/dam-ramonbl/blazquez_lopez_ramon_psp01_tarea.git
-git checkout
+git checkout 37ed449504842c63b02465df255de0b6bb1b85df
 ```
 
 Para simplificar la prueba de los programas es recomendable guardarlos en la misma carpeta. 
